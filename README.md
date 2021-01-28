@@ -7,7 +7,7 @@
     this feature help in battery sever in case of real world calculator.
    
 ## Demo
-  *
+  * The sample file looks like [here](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/11.1(1)%20CalculatorPart1.jpeg).
 ## Technologies Used:
   * Apache netbeans 12.1
   * GUI
