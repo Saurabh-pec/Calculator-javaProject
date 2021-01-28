@@ -7,11 +7,11 @@
     this feature help in battery sever in case of real world calculator.
    
 ## Demo
-  * The sample file looks like [here]img1(https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/11.1(1)%20CalculatorPart1.jpeg).
-  [Click here] for more images:
-  img()
-  img()
-  img()
+  * The sample file looks like [here](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/11.1(1)%20CalculatorPart1.jpeg).
+  [Img1](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/Screenshot%20(378).png)
+  [Img2](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/11.1(3)%20Calcu.jpeg)
+  [Img3](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/11.1(2)%20CalculatorPart2.jpeg)
+  
   
   Following image - 
   ![calc_img](https://)
