@@ -7,14 +7,14 @@
     this feature help in battery sever in case of real world calculator.
    
 ## Demo
-  * Following image: [here](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/11.1(1)%20CalculatorPart1.jpeg).
+  * Following image: [here](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/11.1(1)%20CalculatorPart1.jpeg).<br>
   [Img1](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/Screenshot%20(378).png)<br>
   [Img2](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/11.1(3)%20Calcu.jpeg)<br>
   [Img3](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/11.1(2)%20CalculatorPart2.jpeg)<br>
   
   
   Sample image look like:- 
-  ![calc_img](https://)
+  ![calc_img](https://raw.githubusercontent.com/Saurabh-pec/Calculator-javaProject/main/screenshots/rsz_11111_calculatorpart1.jpg)
 ## Technologies Used:
   * Apache netbeans 12.1
   * GUI
